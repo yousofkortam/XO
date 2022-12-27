@@ -44,16 +44,6 @@ class GameMove {
 
 public class MyXOGame {
     
-    JButton btn1 = new JButton();
-    JButton btn2 = new JButton();
-    JButton btn3 = new JButton();
-    JButton btn4 = new JButton();
-    JButton btn5 = new JButton();
-    JButton btn6 = new JButton();
-    JButton btn7 = new JButton();
-    JButton btn8 = new JButton();
-    JButton btn9 = new JButton();
-    
     
     public static int cnt = 0;
     JFrame frame = new JFrame();
